@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+en+Sistemas;Licenciatura+en+Humanidades+y+Lengua+Castellana;Entre+el+lenguaje+y+el+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
   <br><br>
-  <img src="https://media.giphy.com/media/YWSOy6uhLE2VB126TO/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/YWSOy6uhLE2VB126TO/giphy.gif" width="400"/>
 </div>
 
 ---
@@ -11,10 +11,10 @@
 ### 🧑‍💻 About Me
 - :round_pushpin: **Ubicación:** Bogotá, Colombia
 - :e-mail: **Email:** manu.atg05@gmail.com
-- :mortar_board: **Estudios:** Licenciatura en Lengua Castellana · Ingeniería en Sistemas
+- :mortar_board: **Estudios:** Licenciatura en Humanidades y Lengua Castellana · Ingeniería en Sistemas y Computación
 - :school: **Universidades:** Universidad Central · Universidad Distrital Francisco José de Caldas
 
-Me muevo entre dos mundos: el lenguaje y la tecnología. Estudio Ingeniería en Sistemas y Licenciatura en Lengua Castellana, y me interesa cómo las palabras y el código pueden trabajar juntos para comunicar mejor y resolver problemas reales.
+Me muevo entre dos mundos: el lenguaje y la tecnología. Estudio Ingeniería en Sistemas y Licenciatura en Humanidades y Lengua Castellana, y me interesa cómo las palabras, el código y el lenguaje pueden trabajar juntos para comunicar mejor y resolver problemas reales.
 
 ---
 
