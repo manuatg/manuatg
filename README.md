@@ -1,4 +1,4 @@
-<h1 align=center>Hola, soy Manuela Torres 👋</h1>
+<h1 align=center>Hola!, soy Manuela Torres 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+en+Sistemas;Licenciatura+en+Lengua+Castellana;Entre+el+lenguaje+y+el+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 🧑‍💻 About Me
 - :round_pushpin: **Ubicación:** Bogotá, Colombia
 - :e-mail: **Email:** manu.atg05@gmail.com
 - :mortar_board: **Estudios:** Licenciatura en Lengua Castellana · Ingeniería en Sistemas
