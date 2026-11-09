@@ -2,6 +2,8 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D97757&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+en+Sistemas;Licenciatura+en+Lengua+Castellana;Entre+el+lenguaje+y+el+c%C3%B3digo+%E2%9C%A8" alt="Typing SVG" />
+  <br><br>
+  <img src="https://media.giphy.com/media/YWSOy6uhLE2VB126TO/giphy.gif" width="300"/>
 </div>
 
 ---
